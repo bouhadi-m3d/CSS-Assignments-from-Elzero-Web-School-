@@ -1,0 +1,16 @@
+div {
+    width: 400px;
+    background-color: #EEEEEE;
+    padding: 20px;    
+}
+
+.element-1 {
+    border-left: SOLID 2PX RED;
+}
+.element-2 {
+    visibility: hidden;
+}
+
+.element-3 {
+    border-left: SOLID 2PX green;
+}
