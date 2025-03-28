@@ -2,11 +2,11 @@
     color: red;
 }
 
-span.title {
+span .title {
     color: blue;
 }
 
 p, 
-div.title {
+div .title {
     color: green;
 }
